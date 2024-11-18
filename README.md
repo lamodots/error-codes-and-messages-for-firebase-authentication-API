@@ -131,3 +131,5 @@ The keys are being added to auth/ and the values are the default error messages.
 
 
 ```
+## Reference 
+https://stackoverflow.com/questions/39152004/where-can-i-find-a-list-of-all-error-codes-and-messages-for-firebase-authenticat
